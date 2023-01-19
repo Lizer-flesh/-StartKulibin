@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p903uC3AuOlC8mdFTQz4FL9CyakZBN6JlEVpRlF9H5cyxRoyx/d4MHBINTPrA9e2hEIedswsOgixaOUxU0lo3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\koshe\\RiderProjects\\StartKulibin\\StartKulibin\\StartKulibin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koshe\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.7\\microsoft.netcore.app.runtime.linux-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\koshe\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.7\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\koshe\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.7\\microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
