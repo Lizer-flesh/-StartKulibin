@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\koshe\\RiderProjects\\StartKulibin\\StartKulibin\\StartKulibin.csproj",
+      "projectUniqueName": "C:\\Users\\koshe\\AppData\\Roaming\\Kulibin\\StartKulibin\\StartKulibin\\StartKulibin.csproj",
       "projectName": "StartKulibin",
-      "projectPath": "C:\\Users\\koshe\\RiderProjects\\StartKulibin\\StartKulibin\\StartKulibin.csproj",
+      "projectPath": "C:\\Users\\koshe\\AppData\\Roaming\\Kulibin\\StartKulibin\\StartKulibin\\StartKulibin.csproj",
       "packagesPath": "C:\\Users\\koshe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\koshe\\RiderProjects\\StartKulibin\\StartKulibin\\obj\\",
+      "outputPath": "C:\\Users\\koshe\\AppData\\Roaming\\Kulibin\\StartKulibin\\StartKulibin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
