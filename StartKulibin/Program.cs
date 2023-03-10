@@ -39,7 +39,7 @@ string[] pathParts = folderPath.Split(Path.DirectorySeparatorChar);
 Array.Resize(ref pathParts, pathParts.Length-5);
 string fullPath = Path.Combine(pathParts);
 
-var executePath = Path.Combine(fullPath, "Kulibin.dll");
+var executePath = Path.Combine(fullPath, "Kulibin.-x86_64.AppImage");
 Process prc = new Process();
 prc.StartInfo.FileName = executePath;
 prc.Start();
